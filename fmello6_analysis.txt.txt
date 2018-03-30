@@ -1,0 +1,11 @@
+1. What project did you choose? Why did you choose that project? (1-2 sentences)
+
+I chose the snake game, because it seemed like a lot of fun and I thought it might help me learn how a GUI interface works, which is something that I have been working with as a research assistant.
+
+2. How did you solve the problem? Why did you solve it that way?
+
+I wrote the code to generate a figure that is updated according to the CurrentKey property. I decided to take this path, because making a new figure for each fram seemed impractical and slow.
+
+3. What did you learn?
+
+I learned how to use call back functions and how to animate a plot.
